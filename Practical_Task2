@@ -1,0 +1,10 @@
+a = int(input('Введіть перше число:\n'))
+b = int(input('Введіть друге число:\n'))
+
+print(a, '+', b, '=', a + b)
+print(a, '-', b, '=', a - b)
+print(a, '*', b, '=', a * b)
+print(a, '/', b, '=', a / b)
+print(a, '**', b, '=', a ** b)
+print(a, '//', b, '=', a // b)
+print(a, '%', b, '=', a % b)
